@@ -1,2 +1,1 @@
-# k-junegeun.github.io
-기술블로그
+## 기술블로그
